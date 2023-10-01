@@ -15,7 +15,7 @@ MaLai Club is a vibrant and dynamic community that encourages learning, collabor
 
 ## Getting Started
 
-To access our website, simply open your web browser and visit .
+To access our website, simply open your web browser and visit ([site](https://malai-open.vercel.app/)).
 
 ## Contributing
 
