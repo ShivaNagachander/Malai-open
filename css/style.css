@@ -222,7 +222,7 @@ a:hover,
 /*  Banner Section */
 .banner-wrapper {
     margin-top: 8rem;
-    background-image: url('/bg1.jpg'); 
+    background-image: url('bg1.jpg'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
