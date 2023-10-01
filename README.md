@@ -15,7 +15,7 @@ MaLai Club is a vibrant and dynamic community that encourages learning, collabor
 
 ## Getting Started
 
-To access our website, simply open your web browser and visit [www.malaiclubcollege.com]().
+To access our website, simply open your web browser and visit .
 
 ## Contributing
 
@@ -27,4 +27,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for visiting the MaLai Club College Website! We hope you find it informative and engaging. If you have any questions or need assistance, feel free to reach out to us.
