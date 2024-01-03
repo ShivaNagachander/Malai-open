@@ -17,8 +17,13 @@ MaLai Club is a vibrant and dynamic community that encourages learning, collabor
 
 To access our website, simply open your web browser and visit [Malai Club Website](https://malai-open.vercel.app/).
 
-## Contributing
 
+ | Contributors  
+| ---
+|[satvik](https://github.com/Gsatvik26)
+|[malai team](https://www.instagram.com/malai_au/)
+
+## Contributing
 To contribute DM
 
 ## License
