@@ -1,7 +1,7 @@
 # Malai-open
 # MaLai Club
 
-Welcome to the MaLai Club Website! This website serves as the online platform for our college community, providing information about events, achievements, and how to get in touch with us.
+Welcome to the MaLai Club Website! This website serves as the online platform for our college community, providing information about events, achievements, and how to get in touch with us..
 
 ## About Us
 MaLai Club is a vibrant and dynamic community that encourages learning, collaboration, and personal growth. Our website reflects our commitment to excellence in education and extracurricular activities.
